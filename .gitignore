@@ -1,0 +1,37 @@
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+# NuGet restore files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Others
+*.dbmdl
+*.dbproj
+*.jfm
+
+# OS generated files
+.DS_Store
+Thumbs.db
